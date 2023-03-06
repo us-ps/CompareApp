@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fqlwdH/Bz8bQwnRrGOh5DIy5OZnj/XfIt5iZB42crBlllT9NBWX/J5tJ09K9KpEIm+kcMqsQhjOODjj4nDqjiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utkrisht\\source\\repos\\CompareApp\\CompareApp\\CompareApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utkrisht\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
